@@ -8,5 +8,5 @@ A Computer Science graduate student at Northeastern University, building a stron
 - Data-driven and scalable systems
 
 ### 📬 Contact Me
-- **LinkedIn**: [Thejaswini>](www.linkedin.com/in/thejaswini-srinivasan)
+- **LinkedIn**: [Thejaswini](www.linkedin.com/in/thejaswini-srinivasan)
 - **Email**: [thejaswinisrinivasan5@gmail.com](thejaswinisrinivasan5@gmail.com)
