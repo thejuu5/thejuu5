@@ -1,13 +1,13 @@
 Hi, I'm Thejaswini (the-jas-vee-nee) 👋
 A Computer Science graduate student at Northeastern University, building a strong foundation in Java, C#, and full-stack software development. When I'm not coding, you'll usually find me solving a good word puzzle, baking something new or lost in a book.
 
-🧩 areas of interest
+## 🧩 areas of interest
 
 * Backend & full-stack software engineering
 * Building clean, well-structured applications
 * Data-driven and scalable systems
 
-🚀 projects
+## 🚀 projects
 
 * **[Don't Cite Me!](https://github.com/tekstrom11/DONTCITEME)** — Academic retractions tracking app (team project); built the Retraction Manager module with MongoDB Atlas, handling retraction records and flags.
 * **[MediCoNav](https://github.com/okurine/mediconav)** — AI-driven hospital delivery robot dispatch system simulating a fleet of robots on a grid using A* routing and Q-learning vs. rule-based baselines; built the synthetic request generator and pending-request queue.
@@ -35,7 +35,7 @@ A Computer Science graduate student at Northeastern University, building a stron
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-📬 contact me
+## 📬 contact me
 
 * LinkedIn: [Thejaswini](https://www.linkedin.com/in/thejaswini-srinivasan)
 * Email: [thejaswinisrinivasan5@gmail.com](thejaswinisrinivasan5@gmail.com)
