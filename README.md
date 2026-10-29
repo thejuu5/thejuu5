@@ -1,4 +1,4 @@
-### Hi, I'm Thejaswini (the-jas-vee-nee) 👋
+# Hi, I'm Thejaswini (the-jas-vee-nee) 👋
 
 A Computer Science graduate student at Northeastern University, building a strong foundation in Java, C#, and full-stack software development. When I'm not coding, you'll usually find me solving a good word puzzle, baking something new or lost in a book.
 
